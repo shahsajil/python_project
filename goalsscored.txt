@@ -1,0 +1,92 @@
+RANK,PLAYER,COUNTRY,POSITION,MATCHES,GOALS,PENALTIES
+1,Megan Rapinoe,USA,Forward,5,6,3
+2,Alex Morgan,USA,Forward,6,6,0
+3,Ellen White,England,Forward,6,6,0
+4,Sam Kerr,Australia,Forward,4,5,0
+5,Cristiane,Brazil,Forward,4,4,0
+6,Wendle Renard,France,Defender,5,4,1
+7,Sara Daebritz,Germany,Midfielder,5,3,1
+8,Kosovare Asllani,Sweden,Midfielder,7,3,0
+9,Carli Lloyd,USA,Forward,7,3,0
+10,Cristiana Girelli,Italy,Forward,4,3,0
+11,Aurora Galli,Italy,Midfielder,5,3,0
+12,Jennifer Hermoso,Spain,Forward,4,3,2
+13,Rose Lavelle,USA,Midfielder,6,3,0
+14,Vivianne Miedema,Netherlands,Forward,7,3,0
+15,Samantha Mewis,USA,Midfielder,6,2,0
+16,Lindsey Horan,USA,Midfielder,6,2,0
+17,Lina Magull,Germany,Midfielder,5,2,0
+18,Eugenie Le Sommer,France,Forward,5,2,1
+19,Amandine Henry,France,Midfielder,5,2,0
+20,Stina Blackstenius,Sweden,Forward,6,2,0
+21,Marta,Brazil,Forward,3,2,2
+22,Ajara Nchout,Cameroon,Forward,4,2,0
+23,Valerie Gauvin,France,Forward,5,2,0
+24,Barbara Bonansea,Italy,Midfielder,5,2,0
+25,Isabell Herlovsen,Norway,Forward,5,2,1
+26,Alexandra Popp,Germany,Forward,5,2,0
+27,Lieke Martens,Netherlands,Forward,7,2,1
+28,Sofia Jakobsson,Sweden,Forward,6,2,0
+29,Lucy Bronze,England,Defender,7,1,0
+30,Mallory Pugh,USA,Forward,3,1,0
+31,Nichelle Prince,Canada,Forward,3,1,0
+32,Lucia Garcia,Spain,Forward,4,1,0
+33,Christen Press,USA,Forward,7,1,0
+34,Lineth Beerensteyn,Netherlands,Forward,7,1,0
+35,Erin Cuthbert,Scotland,Forward,3,1,0
+36,Mana Iwabuchi,Japan,Forward,4,1,0
+37,Chloe Logarzo,Australia,Midfielder,4,1,0
+38,Elin Rubensson,Sweden,Midfielder,5,1,1
+39,Caroline Hansen,Norway,Forward,5,1,1
+40,Giulia,Germany,Defender,5,1,0
+41,Fran Kirby,England,Forward,6,1,0
+42,Guro Reiten,Norway,Midfielder,5,1,0
+43,Nikita parris,England,Forward,7,1,1
+44,Jill Scott,England,Midfielder,7,1,0
+45,Linda Sembrant,Sweden,Defender,7,1,0
+46,Lana Clelland,Scotland,Forward,1,1,0
+47,Milagros Menendez,Argentina,Forward,1,1,0
+48,Madelen Janogy,Sweden,Midfielder,3,1,0
+49,Yeo Minji,Korea,Forward,3,1,0
+50,Jill Roord,Netherlands,Midfielder,7,1,0
+51,Jodie Taylor,England,Forward,3,1,0
+52,Lea Schueller,Germany,Forward,3,1,0
+53,Yui Hasegawa,Japan,Midfielder,3,1,0
+54,Elise Kellond,Australia,Midfielder,3,1,0
+55,Havana Solaun,Jamaica,Midfielder,3,1,0
+56,Lisa-Marie Utland,Norway,Forward,5,1,0
+57,Melanie Leupolz,Germany,Midfielder,4,1,0
+58,Claire Emslie,Scotland,Forward,3,1,0
+59,Maria Jose Urrutia,Chile,Forward,3,1,0
+60,Thembi Kgatlana,South Africa,Forward,3,1,0
+61,Anouk Dekker,Netherlands,Defender,4,1,0
+62,Asisat Oshoala,Nigeria,Forward,3,1,0
+63,Florencia Bonsegundo,Argentina,Forward,3,1,1
+64,Li Ying,China,Forward,3,1,0
+65,Jenny Beattie,Scotland,Defender,3,1,0
+66,Kanjana Sung Ngoen,Thailand,Midfielder,3,1,0
+67,Kim Little,Scotland,Midfielder,3,1,0
+68,Lina Hurtig,Sweden,Forward,7,1,0
+69,Valentina Giacinti,Italy,Forward,5,1,0
+70,Yuika Sugasawa,Japan,Forward,4,1,1
+71,Caitlin Foord,Australia,Forward,4,1,0
+72,Christine Sinclair,Canada,Forward,4,1,0
+73,Fridolina Rolfo,Sweden,Forward,6,1,0
+74,Alex Greenwood,England,Defender,4,1,0
+75,Garrielle Aboudi,Cameroon,Forward,4,1,0
+76,Jessie Fleming,Canada,Midfielder,4,1,0
+77,Kadeisha Buchanan,Canada,Defender,4,1,0
+78,Thaisa,Brazil,Midfielder,4,1,0
+79,Julie Ertz,USA,Midfielder,6,1,0
+80,Stefanie Van der Gargt,Netherlands,Defender,5,1,0
+81,Steph Houghton,England,Defender,7,1,0
+82,Jackie Groenen,Netherlands,Midfielder,7,1,0
+83,Dominique Bloodworth,Netherlands,Defender,7,1,0
+
+
+
+
+
+
+
+				
